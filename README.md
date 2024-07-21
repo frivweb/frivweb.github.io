@@ -1,1 +1,1 @@
-# frivweb.github.io
+trivial
